@@ -1,4 +1,3 @@
-from opendart import config
 from opendart.config import BASE_URL
 
 
