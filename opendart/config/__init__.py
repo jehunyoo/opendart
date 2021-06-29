@@ -1,0 +1,1 @@
+from opendart.config.config import *
